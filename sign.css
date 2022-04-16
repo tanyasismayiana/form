@@ -1,0 +1,75 @@
+body{
+    background-image: linear-gradient(to right,rgb(223, 168, 92), rgb(154, 109, 140));
+  }
+  .boxa{
+    background-color: rgb(225, 160, 22);
+    margin-left: 20%;
+   
+  }
+  .form{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top:100px ;
+    margin-left: 280px; */
+    width: 70%;
+    margin: 0 10%;
+    height: 40%;
+  }
+  .boxb{
+    background-color:white;
+    /* margin-right: 900px; */
+    
+    
+   
+  }
+   h2{
+    margin-left: 30px;
+   }
+    img{
+      margin-left: 60px;
+      margin-top: 30px;
+    }
+    h3{ 
+    margin-left: 30px;
+    /* margin-top: 100px; */
+    margin-top: 25%;
+    }
+  
+    h1{
+      margin-left: 60%;
+      font-size: medium;
+    }
+    h4{
+      margin-left: 40%;
+      font-size: 25px;
+    }
+    button{
+      margin-left: 10%;
+      font-size: 20px;
+    }
+    /* .box{
+    margin-left: 50px;
+  
+    } */
+    input{
+      margin: 50% 0;
+    }
+  label{
+    padding: 50px ;
+  }
+  /* .sign-up{
+    padding: 20px;
+    height: 300px; */
+    /* border: solid 1px black; */
+  }
+  /* .username{
+    display: flex;
+  } */
+  img{
+    width: 200px;
+    height:200px;
+    margin-left: 23px ;
+    margin-top: -1%;
+  
+  
+  }
